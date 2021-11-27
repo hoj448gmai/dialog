@@ -1,0 +1,51 @@
+@import "../libs/fontello/css/fontello.css";
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  scroll-behavior: smooth;
+}
+
+.container{
+  max-width: 1170px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+$roboto: Roboto, sans-serif;
+$liberation: Liberation Serif, sans-serif;
+
+@mixin text($ff, $fs, $fw, $fz, $lh){
+  font-family: $ff;
+  font-style: $fs;
+  font-weight: $fw;
+  font-size: $fz;
+  line-height: $lh;
+}
+
+.title{
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 130%;
+  text-align: center;
+  margin: 22px 0 42px;
+}
+
+
+
+@import "button";
+@import "description";
+
+@import "header";
+@import "hero";
+@import "welcome";
+@import "programs";
+@import "review";
+@import "team";
+
+
+@import "overlay";

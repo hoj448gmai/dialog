@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96ac5d0d-be7f-4ee8-9552-b9024ae8fa67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2104fyfkaTvSKdOimibMjQuGEeU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images/overlay" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\itRun-18-00\project3\src\libs\owl-carousel" />
+      <recent name="C:\Users\User\Desktop\itRun-18-00\project3\src\css" />
+      <recent name="C:\Users\User\Desktop\itRun-18-00\project3\src\js" />
+      <recent name="C:\Users\User\Desktop\itRun-18-00\project3\src\images\header" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\itRun-18-00\project3\src\images\overlay" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96ac5d0d-be7f-4ee8-9552-b9024ae8fa67" name="Default Changelist" comment="" />
+      <created>1637064777341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637064777341</updated>
+      <workItem from="1637064781541" duration="1589000" />
+      <workItem from="1637220136943" duration="10451000" />
+      <workItem from="1637237446649" duration="6347000" />
+      <workItem from="1637365833223" duration="2720000" />
+      <workItem from="1637397106117" duration="4790000" />
+      <workItem from="1637405390609" duration="27000" />
+      <workItem from="1637405476031" duration="265000" />
+      <workItem from="1637405762143" duration="206000" />
+      <workItem from="1637410733407" duration="8824000" />
+      <workItem from="1637655835706" duration="7549000" />
+      <workItem from="1637669158819" duration="5889000" />
+      <workItem from="1637749124851" duration="771000" />
+      <workItem from="1637758364231" duration="70000" />
+      <workItem from="1637762593793" duration="54000" />
+      <workItem from="1637828379799" duration="7932000" />
+      <workItem from="1637842325189" duration="2441000" />
+      <workItem from="1637918279037" duration="111000" />
+      <workItem from="1637918400868" duration="97000" />
+      <workItem from="1637918502022" duration="83000" />
+      <workItem from="1637919026329" duration="40000" />
+      <workItem from="1637919856809" duration="43000" />
+      <workItem from="1637919931325" duration="1000" />
+      <workItem from="1637920068249" duration="50000" />
+      <workItem from="1637920433865" duration="37000" />
+      <workItem from="1638000584884" duration="135000" />
+      <workItem from="1638000757756" duration="36000" />
+      <workItem from="1638000841420" duration="2257000" />
+      <workItem from="1638006929371" duration="46000" />
+      <workItem from="1638006979478" duration="2000" />
+      <workItem from="1638007045154" duration="54000" />
+      <workItem from="1638007149971" duration="7000" />
+      <workItem from="1638007265179" duration="1548000" />
+      <workItem from="1638010830702" duration="7000" />
+      <workItem from="1638015313419" duration="1361000" />
+      <workItem from="1638018167050" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637230492683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1637230492683" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1637366401036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1637366401036" />
+    <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1637064900935">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1637064900935" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1637366401036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1637366401036" />
+  </component>
+</project>
